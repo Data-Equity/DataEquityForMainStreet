@@ -7,3 +7,8 @@ Data Equity brought together public and academic librarians in California and Wa
 The curriculum comprises four classes covering open data basics, metadata, visualization and feedback. Materials include step-by-step lesson plans, slides, handouts and evaluation forms. 
 
 This curriculum is free for anyone to use and modify, as best suits your audience. 
+
+## Curriculum
+
+### Slides
+[Slides for Class 4](https://docs.google.com/presentation/d/1yhUyo4huFnxiIBvo3RsEVlj7xzxmH1laDGCSkYDoGtA/edit#slide=id.g247e79edad_0_0)
