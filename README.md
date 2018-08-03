@@ -11,7 +11,7 @@ This curriculum is free for anyone to use and modify, as best suits your audienc
 ## Curriculum
 
 ### Slides
-- [Slides for Class 1](https://docs.google.com/presentation/d/1plQPf5cBsxsvo3RXQkA1iZPRJmN60DuRsRQc98RonQs/edit#slide=id.g25165cb096_4_2756" target="_blank)
+- [Slides for Class 1](https://docs.google.com/presentation/d/1plQPf5cBsxsvo3RXQkA1iZPRJmN60DuRsRQc98RonQs/edit#slide=id.g25165cb096_4_2756  target="_blank")
 - [Slides for Class 2](https://docs.google.com/presentation/d/1LoxSZuZ7U8I34SQ_Nu9rRhoA0XL32O8yUG2YaKTaw7Y/edit#slide=id.g247ef6a410_0_5)
 - [Slides for Class 3](https://docs.google.com/presentation/d/1G0IfeWVWpzQcfjzE8LEVHtQPHYw2ZBmXcet0a-tk7zI/edit#slide=id.g247f2d9a92_0_99)
 - [Slides for Class 4](https://docs.google.com/presentation/d/1yhUyo4huFnxiIBvo3RsEVlj7xzxmH1laDGCSkYDoGtA/edit#slide=id.g247e79edad_0_0)
