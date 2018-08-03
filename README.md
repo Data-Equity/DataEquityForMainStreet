@@ -16,3 +16,19 @@ This curriculum is free for anyone to use and modify, as best suits your audienc
 - [Slides for Class 2](https://docs.google.com/presentation/d/1LoxSZuZ7U8I34SQ_Nu9rRhoA0XL32O8yUG2YaKTaw7Y/edit#slide=id.g247ef6a410_0_5)
 - [Slides for Class 3](https://docs.google.com/presentation/d/1G0IfeWVWpzQcfjzE8LEVHtQPHYw2ZBmXcet0a-tk7zI/edit#slide=id.g247f2d9a92_0_99)
 - [Slides for Class 4](https://docs.google.com/presentation/d/1yhUyo4huFnxiIBvo3RsEVlj7xzxmH1laDGCSkYDoGtA/edit#slide=id.g247e79edad_0_0)
+
+### Handouts
+- [Handout 1: Open Data Basics](https://docs.google.com/document/d/18JrNqzUFBzjuH1SFpSOJIT01CYPwi_wu1K-ZOwXMDOA/edit?usp=sharing)
+- [Handout 2: Where to Find Open Data](https://docs.google.com/document/d/13ON3H85VdNEX5nWG70eACTNVcKlHKhmEmSK6s7RIMf4/edit?usp=sharing)
+- [Handout 4: Open Licenses](https://drive.google.com/file/d/0B8WR82J3b3O1XzE3UHE2cjdnOUk/view)
+- [Handout 5: Making Maps & Charts](https://docs.google.com/document/d/180foE64DK2UIl76L0SawqlLSLlojTIeVp0WJ-eKLmi8/edit?usp=sharing)
+- [Handout 6: Data Quality](https://docs.google.com/document/d/1G-OvbaGTFptKowM-mwSxuTNatvAT1CTFEATy9kwlBGM/edit?usp=sharing)
+- [Handout 7: Paid vs. Open Data](https://docs.google.com/document/d/1BnExS6xvyCqKCrJAU0bYrvyrSbPVBQP2s10kvsXaA6w/edit?usp=sharing)
+#### Treasure Hunts (Handout 3)
+- [Handout 3a: General Treasure Hunt](https://docs.google.com/document/d/1oX7Cjn-B6aovkYhEHdj0IiqoXNeuHhsMxF-B24zjA6E/edit?usp=sharing)
+- [Handout 3b: Business Treasure Hunt](https://docs.google.com/document/d/1NCD4wtNh-QasXnJkeBBedbTfChB94uJpbwOW8TYAMKs/edit?usp=sharing)
+- [Handout 3c: Environmental & Agricultural Treasure Hunt](https://docs.google.com/document/d/1snQvsq1-rA8GCdS2gsLi26vfrjWAw2X4lRCD_JGTtyY/edit?usp=sharing)
+- [Handout 3d: Grab Bag Treasure Hunt](https://docs.google.com/document/d/1knC7AY4BV9wlvgjYhkjFvZdusUVI1HNqagLDGGYL_bc/edit?usp=sharing)
+
+
+
