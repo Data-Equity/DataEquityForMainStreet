@@ -31,4 +31,25 @@ This curriculum is free for anyone to use and modify, as best suits your audienc
 - [Handout 3d: Grab Bag Treasure Hunt](https://docs.google.com/document/d/1knC7AY4BV9wlvgjYhkjFvZdusUVI1HNqagLDGGYL_bc/edit?usp=sharing)
 
 
+## Marketing Materials
+
+### Flyers (Examples)
+- [Blanchard Community Library](https://drive.google.com/file/d/1duey64fWVr0_MbZtWDIBBGqZEs0XA5uy/view?usp=sharing)
+- [Butte County Library](https://drive.google.com/file/d/1mvpDr_VLynWr5HavIUrDkDTJHqxsj2HD/view?usp=sharing)
+- [City of Mount Vernon Library](https://drive.google.com/file/d/1OSWl13zzgR8TU2B3dJmFH4VJ0Ngoeyxq/view?usp=sharing)
+- [San Diego Public Library](https://drive.google.com/file/d/1k9gvBDPORKWFLKb7R-LXLsYieeXWAaQQ/view?usp=sharing)
+- [San Jose Public Library](https://drive.google.com/file/d/1Gj7bz_xv2QkwblnXqnn8BKoeHLFi-x10/view?usp=sharing)
+- [University of Puget Sound, Collins Memorial Library](https://drive.google.com/file/d/1D9cpyVEs2ItysF7we89613i8tKP1_2yy/view?usp=sharing)
+
+### Event/Registration Webpages (Examples)
+- [San Diego Public Library](https://sandiego.librarymarket.com/connect-open-data-2)
+
+### Images
+- [Logo 1](https://drive.google.com/file/d/1evwpzIXac_6aZbuctfMW8IimTz2gmiC7/view?usp=sharing)
+- [Logo 2](https://pixabay.com/en/security-secure-technology-safety-2168234/)
+- [Tips on where to find free images](https://docs.google.com/document/d/16y_iGJnOhp-__JgPE5Z1BBFnQQBgwBPHK50hJL53HJY/edit?usp=sharing)
+
+
+
+
 
