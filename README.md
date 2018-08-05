@@ -30,6 +30,10 @@ This curriculum is free for anyone to use and modify, as best suits your audienc
 - [Handout 3c: Environmental & Agricultural Treasure Hunt](https://docs.google.com/document/d/1snQvsq1-rA8GCdS2gsLi26vfrjWAw2X4lRCD_JGTtyY/edit?usp=sharing)
 - [Handout 3d: Grab Bag Treasure Hunt](https://docs.google.com/document/d/1knC7AY4BV9wlvgjYhkjFvZdusUVI1HNqagLDGGYL_bc/edit?usp=sharing)
 
+### Evaluation Forms
+*Data Equity recommends using an electronic survey form for your evaluations, such as [Google Forms](https://docs.google.com/forms/u/0/), to organize and track responses. We also strongly recommend incorporating time for evaluation into each class, just before wrapping up.*
+- [Instructor Evaluation Form](https://docs.google.com/document/d/1kbcA5EUg8izEECjzS2scJYd4u67Voh5TzodN6pJ8JTk/edit?usp=sharing)
+- [Participant Evaluation Forms](https://docs.google.com/document/d/1P8ANWEYwSO85e7POTts3xzJfD4h0oY-vkS3HR2fRuw8/edit?usp=sharing)
 
 ## Marketing Materials
 
