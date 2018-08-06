@@ -16,6 +16,12 @@ You can retrieve the curriculum and other materials in this repository one of tw
 ## Curriculum
 - [**Curriculum Guide**: Slides with side-by-side instructions](https://docs.google.com/document/d/1pcqqn3EQzWJD6yCzlT6HR4sPhaQCORflruH0b4W18-A/edit#)
 
+### Backgrounders for Instructors
+*These handouts give instructors some grounding in open data issues and provide help finding local examples of open data success stories.*
+- [Finding Open Data Success Stories](https://docs.google.com/document/d/1OKFddqoYJj1jo7Pi0PBZdKx7b38toUCZTJ327ztgCjw/edit?usp=sharing)
+- [Open Data in Context: Big Data, Paid Data & Personally Identifiable Information](https://docs.google.com/document/d/1pVulnVN3j-SJSy1u8R9S_qoneHIeJ-EZvhOoPEMj56E/edit?usp=sharing)
+- [Open Data Policies & Websites](https://docs.google.com/document/d/1_wwLKF0KENYa_2rryq3tbwKbMVk41PgJlLGS0HrR9cI/edit?usp=sharing)
+
 ### Slides
 - [Slides for Class 1](https://docs.google.com/presentation/d/1plQPf5cBsxsvo3RXQkA1iZPRJmN60DuRsRQc98RonQs/edit#slide=id.g25165cb096_4_2756) 
 - [Slides for Class 2](https://docs.google.com/presentation/d/1LoxSZuZ7U8I34SQ_Nu9rRhoA0XL32O8yUG2YaKTaw7Y/edit#slide=id.g247ef6a410_0_5)
