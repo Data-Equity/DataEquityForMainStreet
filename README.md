@@ -2,11 +2,16 @@
 
 This repository houses open data literacy curriculum developed by Data Equity for Main Street, a John S. and James L. Knight Foundation project begun in 2016. Data Equity aims to promote open data literacy by training librarians and community members how to find, use and give feedback about open data.
 
-Data Equity brought together public and academic librarians in California and Washington State with state government and private sector leaders in education and technology. The project developed the curriculum, trained librarians to use it and pilot tested the curriculum over two years at more than 20 public and academic libraries in the two states.
+Data Equity brought together public and academic librarians in California and Washington State with state government and private sector leaders in education and technology. The project developed the curriculum, trained librarians to use it and pilot-tested the curriculum over two years at more than 20 public and academic libraries in the two states.
 
-The curriculum comprises four classes covering open data basics, metadata, visualization and feedback. Materials include step-by-step lesson plans, slides, handouts and evaluation forms. 
+The curriculum comprises four classes covering open data basics, metadata, visualization and feedback. The curriculum is designed for the general public and assumes no previous experience with open data; it can also be used for other audiences, such as library staff or government publishing agencies. Materials include step-by-step lesson plans, slides, handouts and evaluation forms, as well as sample flyers and other marketing resources.
 
 This curriculum is free for anyone to use and modify, as best suits your audience. 
+
+Questions or feedback? Contact [TBD].
+
+## Using GitHub 
+You can retrieve the curriculum and other materials in this repository one of two ways -- by using the links below, or by making a copy of ("forking") this GitHub repository to your own GitHub account. If you're new to GitHub, visit the [GitHub guides](https://guides.github.com/) to learn more about [getting started with GitHub](https://guides.github.com/activities/hello-world/) and ["forking" projects](https://guides.github.com/activities/forking/).
 
 ## Curriculum
 - [**Curriculum Guide**: Slides with side-by-side instructions](https://docs.google.com/document/d/1pcqqn3EQzWJD6yCzlT6HR4sPhaQCORflruH0b4W18-A/edit#)
@@ -22,6 +27,7 @@ This curriculum is free for anyone to use and modify, as best suits your audienc
 - [Handout 2: Where to Find Open Data](https://docs.google.com/document/d/13ON3H85VdNEX5nWG70eACTNVcKlHKhmEmSK6s7RIMf4/edit?usp=sharing)
 - [Handout 4: Open Licenses](https://drive.google.com/file/d/0B8WR82J3b3O1XzE3UHE2cjdnOUk/view)
 - [Handout 5: Making Maps & Charts](https://docs.google.com/document/d/180foE64DK2UIl76L0SawqlLSLlojTIeVp0WJ-eKLmi8/edit?usp=sharing)
+    - [California Wildfires dataset](https://docs.google.com/spreadsheets/d/1c7AWAeHcNWtyVMZt-kmLrvm76k3KrMLUiP0O0ZEZnX8/edit?usp=sharing)
 - [Handout 6: Data Quality](https://docs.google.com/document/d/1G-OvbaGTFptKowM-mwSxuTNatvAT1CTFEATy9kwlBGM/edit?usp=sharing)
 - [Handout 7: Paid vs. Open Data](https://docs.google.com/document/d/1BnExS6xvyCqKCrJAU0bYrvyrSbPVBQP2s10kvsXaA6w/edit?usp=sharing)
 #### Treasure Hunts (Handout 3)
