@@ -8,7 +8,7 @@ The curriculum comprises four classes covering open data basics, metadata, visua
 
 This curriculum is free for anyone to use and modify, as best suits your audience. 
 
-Questions or feedback? Contact [TBD].
+Questions or feedback? Contact Anne Neville-Bonilla (Anne.Neville@library.ca.gov) or Will Saunders (will.saunders@watech.wa.gov)
 
 ## Using GitHub 
 You can retrieve the curriculum and other materials in this repository one of two ways -- by using the links below, or by making a copy of ("forking") this GitHub repository to your own GitHub account. If you're new to GitHub, visit the [GitHub guides](https://guides.github.com/) to learn more about [getting started with GitHub](https://guides.github.com/activities/hello-world/) and ["forking" projects](https://guides.github.com/activities/forking/).
