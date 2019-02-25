@@ -1,6 +1,6 @@
 # Data Equity for Main Street
 
-This repository houses open data literacy curriculum developed by Data Equity for Main Street, a John S. and James L. Knight Foundation project begun in 2016. Data Equity aims to promote open data literacy by training librarians and community members how to find, use and give feedback about open data.
+This repository houses the open data literacy curriculum developed by Data Equity for Main Street, a John S. and James L. Knight Foundation project begun in 2016. Data Equity aims to promote open data literacy by training librarians and community members how to find, use and give feedback about open data.
 
 Data Equity brought together public and academic librarians in California and Washington State with state government and private sector leaders in education and technology. The project developed the curriculum, trained librarians to use it and pilot-tested the curriculum over two years at more than 20 public and academic libraries in the two states.
 
