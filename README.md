@@ -1,6 +1,6 @@
 # Data Equity for Main Street
 
-Are you interested in learning about open data or teaching about open data to your community? The Data Equity for Main Street project has been developing curriculum to promote open data literacy by training librarians and community members how to find, use and give feedback about open data. This is a joint project of the [California State Library](www.library.ca.gov) and the [Washington State Department of IT](www.watech.wa.gov), and was funded by the  [John S. and James L. Knight Foundation](https://knightfoundation.org).
+Are you interested in learning about open data or teaching about open data to your community? The Data Equity for Main Street project has been developing curriculum to promote open data literacy by training librarians and community members how to find, use and give feedback about open data. This is a joint project of the [California State Library](www.library.ca.gov) and the [Washington State Office of Privacy](www.watech.wa.gov), and was funded by the  [John S. and James L. Knight Foundation](https://knightfoundation.org).
 
 To develop this curriculum, we brought together public and academic librarians in California and Washington State with civic technologists and state government leaders in education and technology. After developing the initial curriculum, we trained librarians across our two states and pilot-tested the curriculum over two years at more than 20 public and academic libraries in the two states. 
 
