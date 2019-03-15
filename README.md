@@ -1,14 +1,19 @@
 # Data Equity for Main Street
 
-This repository houses the open data literacy curriculum developed by Data Equity for Main Street, a John S. and James L. Knight Foundation project begun in 2016. Data Equity aims to promote open data literacy by training librarians and community members how to find, use and give feedback about open data.
+Are you interested in learning about open data or teaching about open data to your community? The Data Equity for Main Street project has been developing curriculum to promote open data literacy by training librarians and community members how to find, use and give feedback about open data. This is a joint project of the [California State Library](www.library.ca.gov) and the [Washington State Office of Privacy](www.watech.wa.gov), and was funded by the  [John S. and James L. Knight Foundation](https://knightfoundation.org).
 
-Data Equity brought together public and academic librarians in California and Washington State with state government and private sector leaders in education and technology. The project developed the curriculum, trained librarians to use it and pilot-tested the curriculum over two years at more than 20 public and academic libraries in the two states.
+To develop this curriculum, we brought together public and academic librarians in California and Washington State with civic technologists and state government leaders in education and technology. After developing the initial curriculum, we trained librarians across our two states and pilot-tested the curriculum over two years at more than 20 public and academic libraries in the two states. 
 
-The curriculum comprises four classes covering open data basics, metadata, visualization and feedback. The curriculum is designed for the general public and assumes no previous experience with open data; it can also be used for other audiences, such as library staff or government publishing agencies. Materials include step-by-step lesson plans, slides, handouts and evaluation forms, as well as sample flyers and other marketing resources.
+We are now in the process of moving the curriculum into an online, interactive enviroment. The curriculum will be built so that librarians or other community leaders can teach it to a class or support someone taking the classes independently. Expect an update in April 2019! 
 
-This curriculum is free for anyone to use and modify, as best suits your audience. 
+The curriculum comprises four classes covering open data basics, metadata, visualization, feedback and engagement with open data publishers. The curriculum is designed for the general public and assumes no previous experience with open data; it can also be used for other audiences, such as library staff or government agencies. Materials include step-by-step lesson plans, slides, handouts and evaluation forms, as well as sample flyers and other marketing resources.
 
-Questions or feedback? Contact Anne Neville-Bonilla (Anne.Neville@library.ca.gov) or Will Saunders (will.saunders@watech.wa.gov)
+This curriculum is free for anyone to use and modify, as best suits your audience. As soon as the online course is ready, we'll add it to this page. In the meantime, all of the beta tester course material is available here and ready for use. Please note, that some sites have changed since our beta testers used the curriculum last fall. Additionally, we are making changes and enhancements as a result of that feedback.  
+
+Questions or feedback? Contact Anne Neville-Bonilla (Anne.Neville-Bonilla@library.ca.gov) or Will Saunders(will.saunders@watech.wa.gov)
+
+## Thank you 
+We are incredibly grateful to the many librarians, community members and other stakeholders who provided feedback over the course of this project. An incomplete list is currently located in the curriculum guide and we will be updating this shortly.
 
 ## Using GitHub 
 You can retrieve the curriculum and other materials in this repository one of two ways -- by using the links below, or by making a copy of ("forking") this GitHub repository to your own GitHub account. If you're new to GitHub, visit the [GitHub guides](https://guides.github.com/) to learn more about [getting started with GitHub](https://guides.github.com/activities/hello-world/) and ["forking" projects](https://guides.github.com/activities/forking/).
