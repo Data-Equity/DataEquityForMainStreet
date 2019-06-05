@@ -13,50 +13,44 @@ This curriculum is free for anyone to use and modify, as best suits your audienc
 Questions or feedback? Contact Anne Neville-Bonilla (Anne.Neville-Bonilla@library.ca.gov) or Will Saunders(will.saunders@watech.wa.gov)
 
 ## Online Curriculum
-Course 1: https://rise.articulate.com/share/6GSXXSrn2BhRTkg_5t3SJJ7enE5WAWlC 
+Course 1: (https://rise.articulate.com/share/6GSXXSrn2BhRTkg_5t3SJJ7enE5WAWlC) 
 
-Course 2: https://rise.articulate.com/share/M38BN574hHjnVjTwTYapqcATj36MV-rv
+Course 2: (https://rise.articulate.com/share/M38BN574hHjnVjTwTYapqcATj36MV-rv)
 
-Course 3: https://rise.articulate.com/share/V91naP9ll4iZA6f3bGUn19eeNBH_F3tY
+Course 3: (https://rise.articulate.com/share/V91naP9ll4iZA6f3bGUn19eeNBH_F3tY)
 
-Course 4: https://rise.articulate.com/share/tgq5Nv_mLxy69ezNDWe45dUeoBSLNnV0
-
+Course 4: (https://rise.articulate.com/share/tgq5Nv_mLxy69ezNDWe45dUeoBSLNnV0)
 
 ## Video: What is Open Data? 
 As part of this project, our team created a short video that describes what open data is and how people use it in their lives. It's included in the curriculum, but you can also watch it here.
 
 [![What is open data?](https://i.imgur.com/Sdr0Y6xm.png)](https://youtu.be/qSD9ob8rGcs "What is Open Data?")
 
-## Using GitHub 
+### Using GitHub 
 You can retrieve the curriculum and other materials in this repository one of two ways -- by using the links below, or by making a copy of ("forking") this GitHub repository to your own GitHub account. If you're new to GitHub, visit the [GitHub guides](https://guides.github.com/) to learn more about [getting started with GitHub](https://guides.github.com/activities/hello-world/) and ["forking" projects](https://guides.github.com/activities/forking/).
 
-### Evaluation Forms
-*Data Equity recommends using an electronic survey form for your evaluations, such as [Google Forms](https://docs.google.com/forms/u/0/), to organize and track responses. We also strongly recommend incorporating time for evaluation into each class, just before wrapping up.*
-- [Instructor Evaluation Form](https://docs.google.com/document/d/1kbcA5EUg8izEECjzS2scJYd4u67Voh5TzodN6pJ8JTk/edit?usp=sharing)
-- [Participant Evaluation Forms](https://docs.google.com/document/d/1P8ANWEYwSO85e7POTts3xzJfD4h0oY-vkS3HR2fRuw8/edit?usp=sharing)
-
-## Marketing Materials
-
-### Flyers (Examples)
+### Marketing Materials
+###### Flyers (Examples)
 - [Blanchard Community Library](https://drive.google.com/file/d/1duey64fWVr0_MbZtWDIBBGqZEs0XA5uy/view?usp=sharing)
 - [Butte County Library](https://drive.google.com/file/d/1mvpDr_VLynWr5HavIUrDkDTJHqxsj2HD/view?usp=sharing)
 - [City of Mount Vernon Library](https://drive.google.com/file/d/1OSWl13zzgR8TU2B3dJmFH4VJ0Ngoeyxq/view?usp=sharing)
 - [San Diego Public Library](https://drive.google.com/file/d/1k9gvBDPORKWFLKb7R-LXLsYieeXWAaQQ/view?usp=sharing)
 - [San Jose Public Library](https://drive.google.com/file/d/1Gj7bz_xv2QkwblnXqnn8BKoeHLFi-x10/view?usp=sharing)
 - [University of Puget Sound, Collins Memorial Library](https://drive.google.com/file/d/1D9cpyVEs2ItysF7we89613i8tKP1_2yy/view?usp=sharing)
-
-### Event/Registration Webpages (Examples)
+###### Event/Registration Webpages (Examples)
 - [San Diego Public Library](https://sandiego.librarymarket.com/connect-open-data-2)
-
-### Images
+###### Images
 - [Logo 1](https://drive.google.com/file/d/1evwpzIXac_6aZbuctfMW8IimTz2gmiC7/view?usp=sharing)
 - [Logo 2](https://pixabay.com/en/security-secure-technology-safety-2168234/)
 - [Tips on where to find free images](https://docs.google.com/document/d/16y_iGJnOhp-__JgPE5Z1BBFnQQBgwBPHK50hJL53HJY/edit?usp=sharing)
-
-## Sample Open Data Used in Course
+### Sample Open Data Used in Course
 - [California Wildfires dataset](https://raw.githubusercontent.com/Data-Equity/DataEquityForMainStreet/master/Curriculum(IncludesEvaluationMaterials)/Handouts/Datasets/2015CaliforniaWildfires.csv). This is a very small dataset and is used in Course 2 and 3. 
+### Evaluation Forms
+*Data Equity recommends using an electronic survey form for your evaluations, such as [Google Forms](https://docs.google.com/forms/u/0/), to organize and track responses. We also strongly recommend incorporating time for evaluation into each class, just before wrapping up.*
+- [Instructor Evaluation Form](https://docs.google.com/document/d/1kbcA5EUg8izEECjzS2scJYd4u67Voh5TzodN6pJ8JTk/edit?usp=sharing)
+- [Participant Evaluation Forms](https://docs.google.com/document/d/1P8ANWEYwSO85e7POTts3xzJfD4h0oY-vkS3HR2fRuw8/edit?usp=sharing)
 
-## Thank you 
+# Thank you!
 We are incredibly grateful to our partners who helped create and provided feedback over the course of this project! (We're very fortunate that in many cases more than one person from an organization helped with this project. We'll be updating this soon with a list of everyone's names and affiliations.)  
 
 <a href="https://imgur.com/2tJoMFR"><img src="https://i.imgur.com/2tJoMFR.png" title="source: imgur.com" /></a>
