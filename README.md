@@ -64,8 +64,7 @@ We are incredibly grateful to our partners who helped create and provided feedba
 
 Please note that much of this material has been updated in the online course. However, you may use or modify any of the original materials if it is helpful. 
 
-- [**Curriculum Guide**: Slides with side-by-side instructions]
-(https://docs.google.com/document/d/1pcqqn3EQzWJD6yCzlT6HR4sPhaQCORflruH0b4W18-A/edit#) While the online course has updates, instructors planning to teach this course in a classroom will still find the Curriculum Guide helpful. 
+- [**Curriculum Guide**: Slides with side-by-side instructions](https://docs.google.com/document/d/1pcqqn3EQzWJD6yCzlT6HR4sPhaQCORflruH0b4W18-A/edit#) While the online course has updates, instructors planning to teach this course in a classroom will still find the Curriculum Guide helpful. 
 
 ### Slides
 These are slides our team originally created for teaching this course. There are some differences in content between these slides and the online course, mainly in response to feedback from alpha and beta testers. Some instructors may wish to pull certain slides, particularly the ones designed to support localized content, and use them in their classes.
