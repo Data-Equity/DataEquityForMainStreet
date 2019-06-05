@@ -12,43 +12,23 @@ This curriculum is free for anyone to use and modify, as best suits your audienc
 
 Questions or feedback? Contact Anne Neville-Bonilla (Anne.Neville-Bonilla@library.ca.gov) or Will Saunders(will.saunders@watech.wa.gov)
 
-##Online Curriculum
+## Online Curriculum
+Course 1: https://rise.articulate.com/share/6GSXXSrn2BhRTkg_5t3SJJ7enE5WAWlC 
+
+Course 2: https://rise.articulate.com/share/M38BN574hHjnVjTwTYapqcATj36MV-rv
+
+Course 3: https://rise.articulate.com/share/V91naP9ll4iZA6f3bGUn19eeNBH_F3tY
+
+Course 4: https://rise.articulate.com/share/tgq5Nv_mLxy69ezNDWe45dUeoBSLNnV0
 
 
-## Thank you 
-We are incredibly grateful to the many librarians, community members and other stakeholders who provided feedback over the course of this project. An incomplete list is currently located in the curriculum guide and we will be updating this shortly.
+## Video: What is Open Data? 
+As part of this project, our team created a short video that describes what open data is and how people use it in their lives. It's included in the curriculum, but you can also watch it here.
+
+[![What is open data?](https://i.imgur.com/Sdr0Y6xm.png)](https://youtu.be/qSD9ob8rGcs "What is Open Data?")
 
 ## Using GitHub 
 You can retrieve the curriculum and other materials in this repository one of two ways -- by using the links below, or by making a copy of ("forking") this GitHub repository to your own GitHub account. If you're new to GitHub, visit the [GitHub guides](https://guides.github.com/) to learn more about [getting started with GitHub](https://guides.github.com/activities/hello-world/) and ["forking" projects](https://guides.github.com/activities/forking/).
-
-## Curriculum
-- [**Curriculum Guide**: Slides with side-by-side instructions](https://docs.google.com/document/d/1pcqqn3EQzWJD6yCzlT6HR4sPhaQCORflruH0b4W18-A/edit#)
-
-### Backgrounders for Instructors
-*These handouts give instructors some grounding in open data issues and provide help finding local examples of open data success stories.*
-- [Finding Open Data Success Stories](https://docs.google.com/document/d/1OKFddqoYJj1jo7Pi0PBZdKx7b38toUCZTJ327ztgCjw/edit?usp=sharing)
-- [Open Data in Context: Big Data, Paid Data & Personally Identifiable Information](https://docs.google.com/document/d/1pVulnVN3j-SJSy1u8R9S_qoneHIeJ-EZvhOoPEMj56E/edit?usp=sharing)
-- [Open Data Policies & Websites](https://docs.google.com/document/d/1_wwLKF0KENYa_2rryq3tbwKbMVk41PgJlLGS0HrR9cI/edit?usp=sharing)
-
-### Slides
-- [Slides for Class 1](https://docs.google.com/presentation/d/1plQPf5cBsxsvo3RXQkA1iZPRJmN60DuRsRQc98RonQs/edit#slide=id.g25165cb096_4_2756) 
-- [Slides for Class 2](https://docs.google.com/presentation/d/1LoxSZuZ7U8I34SQ_Nu9rRhoA0XL32O8yUG2YaKTaw7Y/edit#slide=id.g247ef6a410_0_5)
-- [Slides for Class 3](https://docs.google.com/presentation/d/1G0IfeWVWpzQcfjzE8LEVHtQPHYw2ZBmXcet0a-tk7zI/edit#slide=id.g247f2d9a92_0_99)
-- [Slides for Class 4](https://docs.google.com/presentation/d/1yhUyo4huFnxiIBvo3RsEVlj7xzxmH1laDGCSkYDoGtA/edit#slide=id.g247e79edad_0_0)
-
-### Handouts
-- [Handout 1: Open Data Basics](https://docs.google.com/document/d/18JrNqzUFBzjuH1SFpSOJIT01CYPwi_wu1K-ZOwXMDOA/edit?usp=sharing)
-- [Handout 2: Where to Find Open Data](https://docs.google.com/document/d/13ON3H85VdNEX5nWG70eACTNVcKlHKhmEmSK6s7RIMf4/edit?usp=sharing)
-- [Handout 4: Open Licenses](https://drive.google.com/file/d/0B8WR82J3b3O1XzE3UHE2cjdnOUk/view)
-- [Handout 5: Making Maps & Charts](https://drive.google.com/file/d/1djyKY56cLhWAY0GKstLEXYvEtKdRZJMl/view?usp=sharing)
-    - [California Wildfires dataset](https://raw.githubusercontent.com/Data-Equity/DataEquityForMainStreet/master/Curriculum(IncludesEvaluationMaterials)/Handouts/Datasets/2015CaliforniaWildfires.csv)
-- [Handout 6: Data Quality](https://docs.google.com/document/d/1G-OvbaGTFptKowM-mwSxuTNatvAT1CTFEATy9kwlBGM/edit?usp=sharing)
-- [Handout 7: Paid vs. Open Data](https://docs.google.com/document/d/1BnExS6xvyCqKCrJAU0bYrvyrSbPVBQP2s10kvsXaA6w/edit?usp=sharing)
-#### Treasure Hunts (Handout 3)
-- [Handout 3a: General Treasure Hunt](https://docs.google.com/document/d/1oX7Cjn-B6aovkYhEHdj0IiqoXNeuHhsMxF-B24zjA6E/edit?usp=sharing)
-- [Handout 3b: Business Treasure Hunt](https://docs.google.com/document/d/1NCD4wtNh-QasXnJkeBBedbTfChB94uJpbwOW8TYAMKs/edit?usp=sharing)
-- [Handout 3c: Environmental & Agricultural Treasure Hunt](https://docs.google.com/document/d/1snQvsq1-rA8GCdS2gsLi26vfrjWAw2X4lRCD_JGTtyY/edit?usp=sharing)
-- [Handout 3d: Grab Bag Treasure Hunt](https://docs.google.com/document/d/1knC7AY4BV9wlvgjYhkjFvZdusUVI1HNqagLDGGYL_bc/edit?usp=sharing)
 
 ### Evaluation Forms
 *Data Equity recommends using an electronic survey form for your evaluations, such as [Google Forms](https://docs.google.com/forms/u/0/), to organize and track responses. We also strongly recommend incorporating time for evaluation into each class, just before wrapping up.*
@@ -72,6 +52,54 @@ You can retrieve the curriculum and other materials in this repository one of tw
 - [Logo 1](https://drive.google.com/file/d/1evwpzIXac_6aZbuctfMW8IimTz2gmiC7/view?usp=sharing)
 - [Logo 2](https://pixabay.com/en/security-secure-technology-safety-2168234/)
 - [Tips on where to find free images](https://docs.google.com/document/d/16y_iGJnOhp-__JgPE5Z1BBFnQQBgwBPHK50hJL53HJY/edit?usp=sharing)
+
+## Sample Open Data Used in Course
+- [California Wildfires dataset](https://raw.githubusercontent.com/Data-Equity/DataEquityForMainStreet/master/Curriculum(IncludesEvaluationMaterials)/Handouts/Datasets/2015CaliforniaWildfires.csv). This is a very small dataset and is used in Course 2 and 3. 
+
+## Thank you 
+We are incredibly grateful to our partners who helped create and provided feedback over the course of this project! (We're very fortunate that in many cases more than one person from an organization helped with this project. We'll be updating this soon with a list of everyone's names and affiliations.)  
+
+<a href="https://imgur.com/2tJoMFR"><img src="https://i.imgur.com/2tJoMFR.png" title="source: imgur.com" /></a>
+
+
+## Older Materials (Used by Alpha and Beta Testing Groups)
+
+Please note that much of this material has been updated in the online course. However, you may use or modify any of the original materials if it is helpful. 
+
+- [**Curriculum Guide**: Slides with side-by-side instructions]
+(https://docs.google.com/document/d/1pcqqn3EQzWJD6yCzlT6HR4sPhaQCORflruH0b4W18-A/edit#)While the online course has updates, instructors planning to teach this course in a classroom will still find the Curriculum Guide helpful. 
+
+### Slides
+These are slides our team originally created for teaching this course. There are some differences in content between these slides and the online course, mainly in response to feedback from alpha and beta testers. Some instructors may wish to pull certain slides, particularly the ones designed to support localized content, and use them in their classes.
+
+- [Slides for Class 1](https://docs.google.com/presentation/d/1plQPf5cBsxsvo3RXQkA1iZPRJmN60DuRsRQc98RonQs/edit#slide=id.g25165cb096_4_2756) 
+- [Slides for Class 2](https://docs.google.com/presentation/d/1LoxSZuZ7U8I34SQ_Nu9rRhoA0XL32O8yUG2YaKTaw7Y/edit#slide=id.g247ef6a410_0_5)
+- [Slides for Class 3](https://docs.google.com/presentation/d/1G0IfeWVWpzQcfjzE8LEVHtQPHYw2ZBmXcet0a-tk7zI/edit#slide=id.g247f2d9a92_0_99)
+- [Slides for Class 4](https://docs.google.com/presentation/d/1yhUyo4huFnxiIBvo3RsEVlj7xzxmH1laDGCSkYDoGtA/edit#slide=id.g247e79edad_0_0)
+
+### Handouts
+These are handouts our team created for the alpha and beta testers. Handout 2 and 5 are included in the online course as well as several other handouts that are new to the online version. 
+- [Handout 1: Open Data Basics](https://docs.google.com/document/d/18JrNqzUFBzjuH1SFpSOJIT01CYPwi_wu1K-ZOwXMDOA/edit?usp=sharing)
+- [Handout 2: Where to Find Open Data](https://docs.google.com/document/d/1uXjyUKNW4M0mrVXV5EqrUdCfgVXQj-QLxE3GV2MIQw4/edit?usp=sharing)
+- [Handout 4: Open Licenses](https://drive.google.com/file/d/0B8WR82J3b3O1XzE3UHE2cjdnOUk/view)
+- [Handout 5: Making Maps & Charts](https://docs.google.com/document/d/1Cq1x-UV_WXHtY5l5jP72tRuK13xBMblUChRHIw736-Y/edit?usp=sharing)
+- [Handout 6: Data Quality](https://docs.google.com/document/d/1G-OvbaGTFptKowM-mwSxuTNatvAT1CTFEATy9kwlBGM/edit?usp=sharing)
+- [Handout 7: Paid vs. Open Data](https://docs.google.com/document/d/1BnExS6xvyCqKCrJAU0bYrvyrSbPVBQP2s10kvsXaA6w/edit?usp=sharing)
+
+#### Treasure Hunts (Handout 3)
+(Please note that these have been updated in the new curriculum (Course 2) and renamed "search strategies." In the online version, instructors and participants have the option to work within the curriculum, or view/download/print a copy of the scenario and the suggested search strategy. 
+
+- [Handout 3a: General Treasure Hunt](https://docs.google.com/document/d/1oX7Cjn-B6aovkYhEHdj0IiqoXNeuHhsMxF-B24zjA6E/edit?usp=sharing)
+- [Handout 3b: Business Treasure Hunt](https://docs.google.com/document/d/1NCD4wtNh-QasXnJkeBBedbTfChB94uJpbwOW8TYAMKs/edit?usp=sharing)
+- [Handout 3c: Environmental & Agricultural Treasure Hunt](https://docs.google.com/document/d/1snQvsq1-rA8GCdS2gsLi26vfrjWAw2X4lRCD_JGTtyY/edit?usp=sharing)
+- [Handout 3d: Grab Bag Treasure Hunt](https://docs.google.com/document/d/1knC7AY4BV9wlvgjYhkjFvZdusUVI1HNqagLDGGYL_bc/edit?usp=sharing)
+
+### Backgrounders for Instructors
+*These handouts were originally created to provide instructors additional grounding in open data issues and provide help finding local examples of open data success stories.*
+- [Finding Open Data Success Stories](https://docs.google.com/document/d/1OKFddqoYJj1jo7Pi0PBZdKx7b38toUCZTJ327ztgCjw/edit?usp=sharing)
+- [Open Data in Context: Big Data, Paid Data & Personally Identifiable Information](https://docs.google.com/document/d/1pVulnVN3j-SJSy1u8R9S_qoneHIeJ-EZvhOoPEMj56E/edit?usp=sharing)
+- [Open Data Policies & Websites](https://docs.google.com/document/d/1_wwLKF0KENYa_2rryq3tbwKbMVk41PgJlLGS0HrR9cI/edit?usp=sharing)
+
 
 
 
