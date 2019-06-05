@@ -29,7 +29,7 @@ As part of this project, our team created a short video that describes what open
 ### Using GitHub 
 You can retrieve the curriculum and other materials in this repository one of two ways -- by using the links below, or by making a copy of ("forking") this GitHub repository to your own GitHub account. If you're new to GitHub, visit the [GitHub guides](https://guides.github.com/) to learn more about [getting started with GitHub](https://guides.github.com/activities/hello-world/) and ["forking" projects](https://guides.github.com/activities/forking/).
 
-### Marketing Materials
+#### Marketing Materials
 ###### Flyers (Examples)
 - [Blanchard Community Library](https://drive.google.com/file/d/1duey64fWVr0_MbZtWDIBBGqZEs0XA5uy/view?usp=sharing)
 - [Butte County Library](https://drive.google.com/file/d/1mvpDr_VLynWr5HavIUrDkDTJHqxsj2HD/view?usp=sharing)
@@ -37,15 +37,19 @@ You can retrieve the curriculum and other materials in this repository one of tw
 - [San Diego Public Library](https://drive.google.com/file/d/1k9gvBDPORKWFLKb7R-LXLsYieeXWAaQQ/view?usp=sharing)
 - [San Jose Public Library](https://drive.google.com/file/d/1Gj7bz_xv2QkwblnXqnn8BKoeHLFi-x10/view?usp=sharing)
 - [University of Puget Sound, Collins Memorial Library](https://drive.google.com/file/d/1D9cpyVEs2ItysF7we89613i8tKP1_2yy/view?usp=sharing)
+
 ###### Event/Registration Webpages (Examples)
 - [San Diego Public Library](https://sandiego.librarymarket.com/connect-open-data-2)
+
 ###### Images
 - [Logo 1](https://drive.google.com/file/d/1evwpzIXac_6aZbuctfMW8IimTz2gmiC7/view?usp=sharing)
 - [Logo 2](https://pixabay.com/en/security-secure-technology-safety-2168234/)
 - [Tips on where to find free images](https://docs.google.com/document/d/16y_iGJnOhp-__JgPE5Z1BBFnQQBgwBPHK50hJL53HJY/edit?usp=sharing)
-### Sample Open Data Used in Course
+
+#### Sample Open Data Used in Course
 - [California Wildfires dataset](https://raw.githubusercontent.com/Data-Equity/DataEquityForMainStreet/master/Curriculum(IncludesEvaluationMaterials)/Handouts/Datasets/2015CaliforniaWildfires.csv). This is a very small dataset and is used in Course 2 and 3. 
-### Evaluation Forms
+
+#### Evaluation Forms
 *Data Equity recommends using an electronic survey form for your evaluations, such as [Google Forms](https://docs.google.com/forms/u/0/), to organize and track responses. We also strongly recommend incorporating time for evaluation into each class, just before wrapping up.*
 - [Instructor Evaluation Form](https://docs.google.com/document/d/1kbcA5EUg8izEECjzS2scJYd4u67Voh5TzodN6pJ8JTk/edit?usp=sharing)
 - [Participant Evaluation Forms](https://docs.google.com/document/d/1P8ANWEYwSO85e7POTts3xzJfD4h0oY-vkS3HR2fRuw8/edit?usp=sharing)
