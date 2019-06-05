@@ -12,8 +12,6 @@ This curriculum is free for anyone to use and modify, as best suits your audienc
 
 Questions or feedback? [Contact the Data Equity Team](https://forms.gle/9yUJas5oNUwzMxJf6)     
 
-Anne Neville-Bonilla (Anne.Neville-Bonilla@library.ca.gov) or Will Saunders(will.saunders@watech.wa.gov)
-
 ## Online Curriculum
 [Course 1](https://rise.articulate.com/share/6GSXXSrn2BhRTkg_5t3SJJ7enE5WAWlC) Learn the definition of open data, determine whether or not datasets meet open standards, brainstorm questions that could be answered with open data, and learn how to find data offered at the local, state, and federal levels. 
 
