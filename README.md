@@ -1,6 +1,6 @@
 # Data Equity for Main Street
 
-Are you interested in learning about open data or teaching about open data to your community? The Data Equity for Main Street project has developed curriculum to promote open data literacy by training librarians and community members how to find, use and give feedback about open data. This is a joint project of the [California State Library](www.library.ca.gov) and the [Washington State Office of Privacy](www.watech.wa.gov), and was funded by the  [John S. and James L. Knight Foundation](https://knightfoundation.org).
+Are you interested in learning about open data or teaching about open data to your community? The Data Equity for Main Street project has developed curriculum to promote open data literacy by training librarians and community members how to find, use and give feedback about open data. This is a joint project of the [California State Library](https://www.library.ca.gov) and the [Washington State Office of Privacy](https://www.watech.wa.gov), and was funded by the  [John S. and James L. Knight Foundation](https://knightfoundation.org).
 
 To develop this curriculum, we brought together public and academic librarians in California and Washington State with civic technologists and state government leaders in education and technology. After developing the initial curriculum, we trained librarians across our two states and pilot-tested the curriculum over two years at more than 20 public and academic libraries in the two states. 
 
@@ -10,16 +10,18 @@ The curriculum comprises four classes covering open data basics, metadata, visua
 
 This curriculum is free for anyone to use and modify, as best suits your audience. 
 
-Questions or feedback? Contact Anne Neville-Bonilla (Anne.Neville-Bonilla@library.ca.gov) or Will Saunders(will.saunders@watech.wa.gov)
+Questions or feedback? [Contact the Data Equity Team](https://forms.gle/9yUJas5oNUwzMxJf6)     
+
+Anne Neville-Bonilla (Anne.Neville-Bonilla@library.ca.gov) or Will Saunders(will.saunders@watech.wa.gov)
 
 ## Online Curriculum
-Course 1: (https://rise.articulate.com/share/6GSXXSrn2BhRTkg_5t3SJJ7enE5WAWlC) 
+[Course 1](https://rise.articulate.com/share/6GSXXSrn2BhRTkg_5t3SJJ7enE5WAWlC) Learn the definition of open data, determine whether or not datasets meet open standards, brainstorm questions that could be answered with open data, and learn how to find data offered at the local, state, and federal levels. 
 
-Course 2: (https://rise.articulate.com/share/M38BN574hHjnVjTwTYapqcATj36MV-rv)
+[Course 2](https://rise.articulate.com/share/M38BN574hHjnVjTwTYapqcATj36MV-rv) Learn how to determine the quality of the data you are studying and learn about search strategies that will help you use open data to answer questions.
 
-Course 3: (https://rise.articulate.com/share/V91naP9ll4iZA6f3bGUn19eeNBH_F3tY)
+[Course 3](https://rise.articulate.com/share/V91naP9ll4iZA6f3bGUn19eeNBH_F3tY) Review different types of data visualizations and create your own chart and map.
 
-Course 4: (https://rise.articulate.com/share/tgq5Nv_mLxy69ezNDWe45dUeoBSLNnV0)
+[Course 4](https://rise.articulate.com/share/tgq5Nv_mLxy69ezNDWe45dUeoBSLNnV0) Learn more about analyzing data and also how to help shape the future of open data through advocacy and by providing feedback to data providers.
 
 ## Video: What is Open Data? 
 As part of this project, our team created a short video that describes what open data is and how people use it in their lives. It's included in the curriculum, but you can also watch it here.
