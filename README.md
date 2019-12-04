@@ -38,9 +38,6 @@ You can retrieve the curriculum and other materials in this repository one of tw
 - [San Jose Public Library](https://drive.google.com/file/d/1Gj7bz_xv2QkwblnXqnn8BKoeHLFi-x10/view?usp=sharing)
 - [University of Puget Sound, Collins Memorial Library](https://drive.google.com/file/d/1D9cpyVEs2ItysF7we89613i8tKP1_2yy/view?usp=sharing)
 
-###### Event/Registration Webpages (Examples)
-- [San Diego Public Library](https://sandiego.librarymarket.com/connect-open-data-2)
-
 ###### Images
 - [Logo 1](https://drive.google.com/file/d/1evwpzIXac_6aZbuctfMW8IimTz2gmiC7/view?usp=sharing)
 - [Logo 2](https://pixabay.com/en/security-secure-technology-safety-2168234/)
