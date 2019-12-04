@@ -22,7 +22,7 @@ Questions or feedback? [Contact the Data Equity Team](https://forms.gle/9yUJas5o
 [Course 4](https://rise.articulate.com/share/tgq5Nv_mLxy69ezNDWe45dUeoBSLNnV0) Learn more about analyzing data and also how to help shape the future of open data through advocacy and by providing feedback to data providers.
 
 ## Video: What is Open Data? 
-As part of this project, our team created a short video that describes what open data is and how people use it in their lives. It's included in the curriculum, but you can also watch it here.
+As part of this project, our team created a short video that describes what open data is and how people use it in their lives. It's included in the curriculum, but you can also watch it [here](https://youtu.be/qSD9ob8rGcs).
 
 [![What is open data?](https://i.imgur.com/Sdr0Y6xm.png)](https://youtu.be/qSD9ob8rGcs "What is Open Data?")
 
